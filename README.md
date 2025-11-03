@@ -1,2 +1,27 @@
-# Python-DataScience-Certificate
-completed Python Libraries for Data Science certification by Simplilearn (SkillUp). This course provided hands-on experience with key Python libraries such as NumPy, Pandas, Matplotlib, and Seaborn, focusing on data analysis, manipulation, and visualization. Strengthened foundational data science skills essential for real-world analytical projects.
+# 🎓 Python Libraries for Data Science – Certificate
+
+![Certificate](https://github.com/gaurav36122/Python_Libraries_for_Data_Science/blob/main/Python_Libraries_for_Data_Science_Certificate.png?raw=true)
+
+## 📘 About the Course
+This repository showcases my completion of the **Python Libraries for Data Science** course offered by **Simplilearn SkillUp**.  
+Through this course, I developed strong foundational skills in data manipulation, analysis, and visualization using essential Python libraries.
+
+## 🧠 Key Learnings
+- Hands-on experience with **NumPy**, **Pandas**, **Matplotlib**, and **Seaborn**  
+- Data wrangling, cleaning, and transformation  
+- Creating visual insights from raw data  
+- Performing basic statistical analysis in Python  
+
+## 🗓️ Certificate Details
+- **Issued by:** Simplilearn SkillUp  
+- **Certificate ID:** 9268899  
+- **Date of Completion:** 29th October 2025  
+
+## 👨‍💻 Author
+**Gaurav Singh**  
+📧 [Mail](mailto:gaurav36122@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/gaurav36122)
+
+---
+
+⭐ *This repository highlights my progress in building strong analytical and technical skills for Data Science using Python.*
