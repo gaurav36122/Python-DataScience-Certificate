@@ -20,7 +20,7 @@ Through this course, I developed strong foundational skills in data manipulation
 ## 👨‍💻 Author
 **Gaurav Singh**  
 📧 mail (mailto:gaurav36122@gmail.com)  
-🔗 [LinkedIn](www.linkedin.com/in/gaurav-singh-692b24273)
+🔗 LinkedIn(www.linkedin.com/in/gaurav-singh-692b24273)
 
 ---
 
