@@ -1,6 +1,6 @@
 # 🎓 Python Libraries for Data Science – Certificate
 
-![Certificate](https://github.com/gaurav36122/Python_Libraries_for_Data_Science/blob/main/Python_Libraries_for_Data_Science_Certificate.png?raw=true)
+![Certificate](https://github.com/gaurav36122/Python-DataScience-Certificate/blob/main/Python_Libraries_for_Data_Science_Certificate.png?raw=true)
 
 ## 📘 About the Course
 This repository showcases my completion of the **Python Libraries for Data Science** course offered by **Simplilearn SkillUp**.  
